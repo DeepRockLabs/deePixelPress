@@ -2,6 +2,8 @@
 
 deePixelPress is a powerful and user-friendly image compression tool with a GUI interface, designed to help you optimize your images efficiently.
 
+![deePixelPress](deePixelPressShowcase.png)
+
 ## Features
 
 - Simple and intuitive GUI for easy image compression
